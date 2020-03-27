@@ -1,3 +1,0 @@
-[user]
-	email = markrkmuu@gmail.com
-*.class is the compiled version of a .java file.
